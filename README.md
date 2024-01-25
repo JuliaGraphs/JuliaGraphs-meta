@@ -4,6 +4,8 @@ This repo is for discussion for general JuliaGraphs issues / topics. No code is 
 
 ## Community calls
 
+Organization: see [Discourse](https://discourse.julialang.org/t/launching-the-graphs-community-calls/103880)
+
 You will find the minutes in this repo's issues
 
 - [2023.09.28](https://github.com/JuliaGraphs/JuliaGraphs-meta/issues/9)
